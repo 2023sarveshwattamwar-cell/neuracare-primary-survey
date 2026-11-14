@@ -1,6 +1,6 @@
 # neuracare-primary-survey
 
-<script src='http://certificates.theodi.org/datasets/6af860c0af4c3a3bc7a5847b/certificates/6af86105af4c3a3bc7a58494/badge.js'></script>
+[![ODI Open Data Certificate](http://certificates.theodi.org/datasets/6af860c0af4c3a3bc7a5847b/certificates/6af86105af4c3a3bc7a58494/badge.js)](http://certificates.theodi.org/datasets/6af860c0af4c3a3bc7a58494)
 
 ## Overview
 This repository contains original primary research data collected via a digitized mental health risk assessment deployment across university student cohorts ($N = 260$). This dataset was independently gathered and curated to serve as primary empirical evidence for psychological risk assessment research.
